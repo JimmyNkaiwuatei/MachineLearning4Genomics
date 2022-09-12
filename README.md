@@ -8,7 +8,7 @@ In this short course, we intend to impart knowledge and skills in the following 
 1. Knowledge and skills: Details of the scientific discovery process and the role of bioinformatics in it.
 2. Knowledge, comprehension, and Application: Statistical, machine learning, and data science research methods in the context of molecular biology, genomics, medical or population genetics research
 3. Knowledge and Application: Command line and scripting-based computing skills appropriate to the discipline.
-4. Knowledge and skills: Data management
+4. Knowledge and skills: Data management.
 
 ### Learning Objectives
 To attain the above competencies, the workshop participants should be able to:
